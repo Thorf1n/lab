@@ -1,9 +1,9 @@
-+first commit
+first commit
 
-+git add .
+git add .
 
-+second commit
+second commit
 
-+I wrote command and have: 
+I wrote command and have: 
 $ git add .gitignore
 fatal: pathspec '.gitignore' did not match any files
